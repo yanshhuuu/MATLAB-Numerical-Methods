@@ -1,3 +1,4 @@
+% Bisection Method - Numerical Techniques 
 clc;
 close all;
 syms x;
